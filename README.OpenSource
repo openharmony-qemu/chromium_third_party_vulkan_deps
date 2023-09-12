@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_third_party_vulkan_deps",                   # 上游开源软件名全称
+        "Name": "vulkan_deps",                   # 上游开源软件名全称
         "License": "Khronos LICENSE",         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE"     # 许可证所在文件路径
         "Version Number": "d1b842fca80dddd1a098bf63813386e3e44f9642",
