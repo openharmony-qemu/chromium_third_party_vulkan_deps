@@ -1,11 +1,11 @@
 [
     {
-        "Name": "vulkan_deps",                  
-        "License": "BSD-3",        
-        "License File": "LICENSE",    
+        "Name": "vulkan_deps",
+        "License": "BSD-3",
+        "License File": "LICENSE",
         "Version Number": "d1b842fca80dddd1a098bf63813386e3e44f9642",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/vulkan-deps@d1b842fca80dddd1a098bf63813386e3e44f9642",   
-        "Description": "第三方软件vulkan-deps"          
+        "Upstream URL": "https://chromium.googlesource.com/vulkan-deps@d1b842fca80dddd1a098bf63813386e3e44f9642",
+        "Description": "第三方软件vulkan-deps,是更加现代化的硬件图形接口"
     }
 ]
