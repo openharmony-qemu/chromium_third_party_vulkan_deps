@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "vulkan_deps",
+        "License": "BSD-3",
+        "License File": "LICENSE",
+        "Version Number": "0b56dd5952b25fad65139b64096fcd187048ed38",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/vulkan-deps@0b56dd5952b25fad65139b64096fcd187048ed38",
+        "Description": "第三方软件vulkan-deps,是更加现代化的硬件图形接口"
+    }
+]
